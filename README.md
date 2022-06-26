@@ -13,12 +13,7 @@
     
     cd /opt
     wget https://downloads.apache.org/tomcat/tomcat-9/v9.0.46/bin/apache-tomcat-9.0.46.tar.gz
-    cd apache-tomcat-9.0.46 tomcat
-
-    
-    
-  
-  Copy springboot artifact to Webapps Directory:
+    cd apache-tomcat-9.0.46 tomca
     
     cd springboot-webapplication
     cp target/mavewebappdemo-2.0.0-SNAPSHOT.war /opt/tomcat/webapps/mavewebappdemo.war
