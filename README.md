@@ -14,11 +14,9 @@
     cd /opt
     wget https://downloads.apache.org/tomcat/tomcat-9/v9.0.46/bin/apache-tomcat-9.0.46.tar.gz
     cd apache-tomcat-9.0.46 tomcat
-  
-  Start tomcat:
+
     
-    cd /opt/tomcat/bin
-    ./startup.sh
+    
   
   Copy springboot artifact to Webapps Directory:
     
